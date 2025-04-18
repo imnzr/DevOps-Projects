@@ -1,0 +1,6 @@
+[submodule "DevOps-Project-01"]
+	path = DevOps-Project-01
+	url = ../DevOps-Project-01
+[submodule "DevOps-Project-02"]
+	path = DevOps-Project-02
+	url = ../DevOps-Project-02
