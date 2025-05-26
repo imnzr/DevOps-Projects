@@ -149,7 +149,7 @@ Pastikan untuk mengizinkan PORT 9100 di server yang akan di monitoring
 
 ![image](https://github.com/user-attachments/assets/a9f465a0-b738-4d06-855a-8333367609b2)
 
-Selanjutnya ulangi langkah-langkah diatas untuk konfigurasi node-exporter pada server sonarqube dan docker
+Selanjutnya untuk konfigurasi server sonarqube dan docker akan di konfigurasi dengan Ansible di step selanjutnya
 
 
 ### Step 2 : Install dan Konfigurasi Prometheus di Komputer Lokal
